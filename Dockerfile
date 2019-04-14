@@ -1,4 +1,4 @@
-FROM maven:3.6.0-jdk-8-alpine
+FROM maven:3.6.0-jdk-12-alpine
 
 LABEL version="1.0.0"
 LABEL repository="http://github.com/bas/mvn"
